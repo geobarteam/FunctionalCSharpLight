@@ -1,7 +1,13 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Geoffrey Vandiest</Authors>
+    <Description>Provide functional extensions like Either, Unit, Option explained in the book "Functional Programming in C#"</Description>
+    <PackageProjectUrl>https://github.com/geobarteam/FunctionalCSharpLight</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/geobarteam/FunctionalCSharpLight</RepositoryUrl>
+    <Copyright>Geoffrey Vandiest</Copyright>
   </PropertyGroup>
 
 </Project>
