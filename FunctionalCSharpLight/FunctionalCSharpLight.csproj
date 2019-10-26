@@ -8,6 +8,8 @@
     <PackageProjectUrl>https://github.com/geobarteam/FunctionalCSharpLight</PackageProjectUrl>
     <RepositoryUrl>https://github.com/geobarteam/FunctionalCSharpLight</RepositoryUrl>
     <Copyright>Geoffrey Vandiest</Copyright>
+    <PackageLicenseExpression>WTFPL</PackageLicenseExpression>
+    <Version>1.0.0.1</Version>
   </PropertyGroup>
 
 </Project>
